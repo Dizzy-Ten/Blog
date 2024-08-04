@@ -1,0 +1,2 @@
+# Dizzy
+This is my personal website
